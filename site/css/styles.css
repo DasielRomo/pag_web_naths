@@ -395,7 +395,7 @@ h3.menu-item-tile {
 	/* End Header*/
 
 	/* Home page*/
-	#menu-tile, #specials-tile {
+	#menu-tile, #specials-tile, #map-tile {
 		width: 280px;
 		margin: 0 auto 15px;
 	}
